@@ -1,3 +1,0 @@
-<img src="images/abdul.jpg" alt="Abdul Manan Mumtaz">
-<img src="images/zain.jpg" alt="Zain ul Abideen">
-<img src="images/nouman.jpg" alt="Nouman Ahmad">
